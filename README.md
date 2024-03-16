@@ -1,5 +1,5 @@
 # Hi there 👋
-- 🌱 I’m currently learning .NET
+- 🌱 Coding in .NET
 - 🛠️ Working as Software Enginneer of Test
 
 ## Belfast
