@@ -1,1 +1,1 @@
-# Hi 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=309DFF&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=60&lines=hello+world%2C+welcome)](https://git.io/typing-svg)
