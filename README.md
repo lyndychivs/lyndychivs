@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=309DFF&center=true&vCenter=true&multiline=true&width=435&height=60&lines=hello+world%2C+welcome)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&vCenter=true&multiline=true&repeat=true&width=1000&height=70&separator=%3C&lines=Console.Write(%22hello+world%2C+welcome%22);)](https://git.io/typing-svg)
